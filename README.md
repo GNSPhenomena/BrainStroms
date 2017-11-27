@@ -10,4 +10,5 @@
 -Hello Wonderful Phenomena Members:
 - This is the document where you are welcome to drop down your ideas
 - We will select project(s) for the club from this document and work together as a group
-- Your idea has the potential to become our next project
+- Your idea has the potential to become our next project!
+- : )

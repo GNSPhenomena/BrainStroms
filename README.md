@@ -10,7 +10,7 @@
 -Hello Wonderful Phenomena Members:
 -  This is the document where you can drop your ideas down
 -		For any project you want to work on
--		For anything has grabbed your attentions
+-		For anything that has grabbed your attention
 -	You are welcome to drop them down below. So, we can have a discussion about it.
 -	Maybe your idea will be our next project!
 -	: )

@@ -4,7 +4,7 @@
 - Drop down your ideas
 
 ### 2. The Document 
-- https://docs.google.com/a/mygns.ca/document/d/1fLm2RJOFSxDVxatytCI86R-EuLYS0xKe0N-XZOGQZIs/edit?usp=sharing
+- https://docs.google.com/document/d/1fLm2RJOFSxDVxatytCI86R-EuLYS0xKe0N-XZOGQZIs/edit?usp=sharing
  
 ### 3. Purpose
 -Hello Wonderful Phenomena Members:
